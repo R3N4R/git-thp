@@ -1,0 +1,15 @@
+
+    Pour lancer le terminal sur Linux : CTRL + ALT + T ; pour le lancer sur macOS : CMD + SPACE, puis écrire Terminal (ou iTerm), Enter.
+
+   - xdg-open ouvre n'importe quoi (je crois)
+   - cat affiche le contenu d'un ficchier
+   - man est le manuel est permet de lancer la manuel des fonctions
+   - pwd affiche le dossier dans lequel tu es actuellement.
+   - ls est une commande qui affiche les fichiers et dossiers qu'il y a dans mon dossier actuel
+    la notion de géographie est fondamentale : le terminal n'arrivera pas à ouvrir les fichiers s'il ne se trouve pas dans le bon dossier
+   - cd permet de changer de dossier
+   - touch permet de créer un fichier
+   - cp permet de copier un fichier
+   - mv permet de déplacer un fichier ou un dossier
+   - rm permet de supprimer un fichier
+   - mkdir permet de créer un dossier
